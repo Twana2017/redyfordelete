@@ -105,16 +105,16 @@ const client100 = new Discord.Client();
 
 
 
-client.login("");
-client2.login("");
-client3.login("");
-client4.login("");
-client5.login("");
-client6.login("");
-client7.login("");
-client8.login("");
-client9.login("");
-client10.login("");
+client.login("ODMwMTU4ODc5NDM4NTM2NzI1.YHCoTA.ilCOw_ourpkHVwzfSuT97uNbMGk");
+client2.login("ODMwMTYwMTk2ODgxNzQzODgy.YHCpeA.Iu3Db8MWFe1AHq-iNEAuyCcoEZY");
+client3.login("ODMwMTYxNjU3MjIwODI1MjA5.YHCqow.DsloP_TFmXPiDbrP_7NgONm-yKo");
+client4.login("ODMwMTYyOTcwNDI3Nzg1Mjc3.YHCr7w.aFeoiW-jRz9gjBhWWWYVitMDEEo");
+client5.login("ODMwMTY0Mjg0OTAxOTQ5NTQw.YHCu6g.JzO4MmpDLGBuwhw7TJI0NXQJ-OU");
+client6.login("ODMwMTY3MzI0MDkwMDQwMzcx.YHCwHg.OIluThZpmG41uhlBgwrJ4ra65eI");
+client7.login("ODMwMTY4NjQ3NjE5MDUxNTYw.YHCxPw.cFouhFhNPmSkRaIILsInH7XxuGc");
+client8.login("ODMwMTcwOTU1MzA0MTQwODQx.YHCzMQ.DYr46SlB7kocx4H1GUbWSgJkrAQ");
+client9.login("ODMwMTcxODM0OTUwMzUyOTI2.YHC0KA.uOA9KtWB8gvcvUPgvfLFukHtDxg");
+client10.login("ODMwMTczMTMzNDQwMTU1Njk5.YHC10Q.ACKvRRF8rbo4bPMs8oiadzplWDk");
 client11.login("");
 client12.login("");
 client13.login("");
